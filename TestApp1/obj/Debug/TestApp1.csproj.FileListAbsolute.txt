@@ -1,0 +1,17 @@
+D:\Vlasta\Projects\C Sharp projects\TestApp1\TestApp1\bin\Debug\TestApp1.exe.config
+D:\Vlasta\Projects\C Sharp projects\TestApp1\TestApp1\bin\Debug\TestApp1.exe
+D:\Vlasta\Projects\C Sharp projects\TestApp1\TestApp1\bin\Debug\TestApp1.pdb
+D:\Vlasta\Projects\C Sharp projects\TestApp1\TestApp1\obj\Debug\TestApp1.csprojResolveAssemblyReference.cache
+D:\Vlasta\Projects\C Sharp projects\TestApp1\TestApp1\obj\Debug\TestApp1.exe
+D:\Vlasta\Projects\C Sharp projects\TestApp1\TestApp1\obj\Debug\TestApp1.pdb
+D:\Vlasta\Projects\C Sharp projects\TestApp1\TestApp1\bin\Debug\Database1.mdf
+D:\Vlasta\Projects\C Sharp projects\TestApp1\TestApp1\bin\Debug\Database1_log.ldf
+D:\Vlasta\Projects\C Sharp projects\Task_Console_App\TestApp1\bin\Debug\Database1.mdf
+D:\Vlasta\Projects\C Sharp projects\Task_Console_App\TestApp1\bin\Debug\Database1_log.ldf
+D:\Vlasta\Projects\C Sharp projects\Task_Console_App\TestApp1\bin\Debug\TestApp1.exe.config
+D:\Vlasta\Projects\C Sharp projects\Task_Console_App\TestApp1\bin\Debug\TestApp1.exe
+D:\Vlasta\Projects\C Sharp projects\Task_Console_App\TestApp1\bin\Debug\TestApp1.pdb
+D:\Vlasta\Projects\C Sharp projects\Task_Console_App\TestApp1\obj\Debug\TestApp1.csprojResolveAssemblyReference.cache
+D:\Vlasta\Projects\C Sharp projects\Task_Console_App\TestApp1\obj\Debug\TestApp1.exe
+D:\Vlasta\Projects\C Sharp projects\Task_Console_App\TestApp1\obj\Debug\TestApp1.pdb
+D:\Vlasta\Projects\C Sharp projects\Task_Console_App\TestApp1\bin\Debug\MySql.Data.dll
